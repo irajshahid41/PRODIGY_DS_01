@@ -50,16 +50,3 @@ This project fulfills the requirements of Task 1 from my internship at Prodigy I
 This project successfully performed **data cleaning** and **exploratory data analysis** on the World Population dataset. Relationships, patterns, and trends were identified, offering clear insights into population dynamics across different countries.
 
 For detailed code and analysis, refer to the **Task01.ipynb** file.
-
-
-
-
-
-
-
-
-
-
-
-For detailed code and analysis, refer to the Task01.ipynb file.
-
